@@ -1,0 +1,7 @@
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe.config
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\bin\Debug\CursoCsharp.pdb
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.AssemblyReference.cache
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.exe
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\CursoCsharp\CursoCsharp\obj\Debug\CursoCsharp.pdb
