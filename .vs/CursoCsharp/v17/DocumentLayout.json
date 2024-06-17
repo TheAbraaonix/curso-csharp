@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\cursocsharp\\cursocsharp\\section_4\\mainestatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_4\\mainestatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\cursocsharp\\cursocsharp\\section_4\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_4\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculadora.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_4\\Calculadora.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_4\\Calculadora.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_4\\Calculadora.cs",
-              "RelativeToolTip": "CursoCsharp\\section_4\\Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:31:40.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainEstatica.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_4\\MainEstatica.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_4\\MainEstatica.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_4\\MainEstatica.cs",
-              "RelativeToolTip": "CursoCsharp\\section_4\\MainEstatica.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:31:20.98Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-17T18:49:57.958Z",
               "EditorCaption": ""
             }
           ]
