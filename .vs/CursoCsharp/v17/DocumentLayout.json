@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\cursocsharp\\cursocsharp\\section_5\\produtodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_5\\produtodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_6\\matriz\\desafio\\desafiomatrizmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_6\\matriz\\desafio\\desafiomatrizmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\cursocsharp\\cursocsharp\\section_5\\mainprodutodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_5\\mainprodutodois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_6\\matriz\\exemplopratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_6\\matriz\\exemplopratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_6\\matriz\\matrizmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_6\\matriz\\matrizmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainProdutoDois.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_5\\MainProdutoDois.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_5\\MainProdutoDois.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_5\\MainProdutoDois.cs",
-              "RelativeToolTip": "CursoCsharp\\section_5\\MainProdutoDois.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAbAAAA",
+              "DocumentIndex": 0,
+              "Title": "DesafioMatrizMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\desafio\\DesafioMatrizMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_6\\matriz\\desafio\\DesafioMatrizMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\desafio\\DesafioMatrizMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_6\\matriz\\desafio\\DesafioMatrizMain.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:29:05.264Z",
+              "WhenOpened": "2024-06-18T23:23:45.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoDois.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_5\\ProdutoDois.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_5\\ProdutoDois.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\CursoCsharp\\CursoCsharp\\section_5\\ProdutoDois.cs",
-              "RelativeToolTip": "CursoCsharp\\section_5\\ProdutoDois.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "DocumentIndex": 1,
+              "Title": "ExemploPratico.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\ExemploPratico.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_6\\matriz\\ExemploPratico.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\ExemploPratico.cs",
+              "RelativeToolTip": "CursoCsharp\\section_6\\matriz\\ExemploPratico.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wC8AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:28:21.313Z",
+              "WhenOpened": "2024-06-18T22:58:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatrizMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\MatrizMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_6\\matriz\\MatrizMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_6\\matriz\\MatrizMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_6\\matriz\\MatrizMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:53:49.24Z",
               "EditorCaption": ""
             }
           ]

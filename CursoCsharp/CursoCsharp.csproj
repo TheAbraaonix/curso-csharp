@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_5.MainProdutoDois</StartupObject>
+    <StartupObject>CursoCsharp.section_6.matriz.desafio.DesafioMatrizMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,9 +56,21 @@
     <Compile Include="section_4\Triangulo.cs" />
     <Compile Include="section_5\MainProdutoDois.cs" />
     <Compile Include="section_5\ProdutoDois.cs" />
+    <Compile Include="section_6\arrayList\ArrayListMain.cs" />
+    <Compile Include="section_6\arrayList\desafio\DesafioArrayListMain.cs" />
+    <Compile Include="section_6\arrayList\desafio\Employee.cs" />
+    <Compile Include="section_6\array\ArrayMain.cs" />
+    <Compile Include="section_6\array\ArrayProductMain.cs" />
+    <Compile Include="section_6\array\desafio\DesafioArrayMain.cs" />
+    <Compile Include="section_6\array\desafio\Person.cs" />
+    <Compile Include="section_6\array\Product.cs" />
+    <Compile Include="section_6\matriz\desafio\DesafioMatrizMain.cs" />
+    <Compile Include="section_6\matriz\ExemploPratico.cs" />
+    <Compile Include="section_6\matriz\MatrizMain.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
