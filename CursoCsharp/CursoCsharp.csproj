@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_4.MainEstatica</StartupObject>
+    <StartupObject>CursoCsharp.section_5.MainProdutoDois</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,8 @@
     <Compile Include="section_4\Produto.cs" />
     <Compile Include="section_4\MainTriangulo.cs" />
     <Compile Include="section_4\Triangulo.cs" />
+    <Compile Include="section_5\MainProdutoDois.cs" />
+    <Compile Include="section_5\ProdutoDois.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
