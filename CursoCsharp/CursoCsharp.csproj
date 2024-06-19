@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_6.matriz.desafio.DesafioMatrizMain</StartupObject>
+    <StartupObject>CursoCsharp.section_7.TopicosEspeciais</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,7 @@
     <Compile Include="section_6\matriz\desafio\DesafioMatrizMain.cs" />
     <Compile Include="section_6\matriz\ExemploPratico.cs" />
     <Compile Include="section_6\matriz\MatrizMain.cs" />
+    <Compile Include="section_7\TopicosEspeciaisMain.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
