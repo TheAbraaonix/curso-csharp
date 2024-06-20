@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_9\\exercioenum\\exercicioenummain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_9\\exercioenum\\exercicioenummain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_9\\exercioenum\\exercicioenummain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ExercicioEnumMain.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
               "RelativeDocumentMoniker": "CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
-              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
               "RelativeToolTip": "CursoCsharp\\section_9\\ExercioEnum\\ExercicioEnumMain.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
