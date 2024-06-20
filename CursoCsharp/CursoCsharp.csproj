@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_7.TopicosEspeciais</StartupObject>
+    <StartupObject>CursoCsharp.section_9.DesafioEnum.ExercicioEnumMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -68,6 +68,14 @@
     <Compile Include="section_6\matriz\ExemploPratico.cs" />
     <Compile Include="section_6\matriz\MatrizMain.cs" />
     <Compile Include="section_7\TopicosEspeciaisMain.cs" />
+    <Compile Include="section_9\ExercioEnum\Entities\Department.cs" />
+    <Compile Include="section_9\ExercioEnum\Entities\HourContract.cs" />
+    <Compile Include="section_9\ExercioEnum\Entities\Worker.cs" />
+    <Compile Include="section_9\ExercioEnum\Enums\WorkerLevel.cs" />
+    <Compile Include="section_9\ExercioEnum\ExercicioEnumMain.cs" />
+    <Compile Include="section_9\EnumMain.cs" />
+    <Compile Include="section_9\Order.cs" />
+    <Compile Include="section_9\OrderStatus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
