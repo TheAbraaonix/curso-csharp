@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoCsharp.section_10.heranca
 {
-    internal class SavingsAccount : Account
+    sealed internal class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -20,6 +20,15 @@ namespace CursoCsharp.section_10.heranca
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        // SOBREPOSICAO E METODO SELADO
+        sealed public override void Withdraw(double amount)
+        {
+            // Um método com a keyword "sealed" não pode ser sobrescrito novamente por uma nova subclasse
+            
+            base.Withdraw(amount);
+            Balance -= 2;
         }
     }
 }

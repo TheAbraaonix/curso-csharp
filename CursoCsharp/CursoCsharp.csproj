@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_10.heranca.HerancaMain</StartupObject>
+    <StartupObject>CursoCsharp.section_10.DesafioMetodosAbstratos.DesafioMetodosAbstratosMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,22 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="section_10\DesafioHeranca\DesafioHerancaMain.cs" />
+    <Compile Include="section_10\DesafioHeranca\Entities\ImportedProduct.cs" />
+    <Compile Include="section_10\DesafioHeranca\Entities\Product.cs" />
+    <Compile Include="section_10\DesafioHeranca\Entities\UsedProduct.cs" />
+    <Compile Include="section_10\DesafioMetodosAbstratos\DesafioMetodosAbstratosMain.cs" />
+    <Compile Include="section_10\DesafioMetodosAbstratos\Entities\Company.cs" />
+    <Compile Include="section_10\DesafioMetodosAbstratos\Entities\Individual.cs" />
+    <Compile Include="section_10\DesafioMetodosAbstratos\Entities\Person.cs" />
+    <Compile Include="section_10\ExercicioHeranca\Entities\Employee.cs" />
+    <Compile Include="section_10\ExercicioHeranca\Entities\OutsourcedEmployee.cs" />
+    <Compile Include="section_10\ExercicioHeranca\ExercicioHerancaMain.cs" />
+    <Compile Include="section_10\ExercicioMetodosAbstratos\Entities\Circle.cs" />
+    <Compile Include="section_10\ExercicioMetodosAbstratos\Entities\Enums\Color.cs" />
+    <Compile Include="section_10\ExercicioMetodosAbstratos\Entities\Rectangle.cs" />
+    <Compile Include="section_10\ExercicioMetodosAbstratos\Entities\Shape.cs" />
+    <Compile Include="section_10\ExercicioMetodosAbstratos\ExercicioMetodosAbstratosMain.cs" />
     <Compile Include="section_10\heranca\Account.cs" />
     <Compile Include="section_10\heranca\BusinessAccount.cs" />
     <Compile Include="section_10\heranca\HerancaMain.cs" />

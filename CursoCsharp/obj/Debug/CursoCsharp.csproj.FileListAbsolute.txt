@@ -12,3 +12,10 @@ C:\Users\Carlos Abraão\Documents\projects\curso_csharp\curso-csharp\CursoCsharp
 C:\Users\Carlos Abraão\Documents\projects\curso_csharp\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
 C:\Users\Carlos Abraão\Documents\projects\curso_csharp\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.exe
 C:\Users\Carlos Abraão\Documents\projects\curso_csharp\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.pdb
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\bin\Debug\CursoCsharp.exe.config
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\bin\Debug\CursoCsharp.exe
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\bin\Debug\CursoCsharp.pdb
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.AssemblyReference.cache
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.exe
+C:\Users\carlos.holanda\Documents\projects\curso_csharp_completo\curso-csharp\CursoCsharp\obj\Debug\CursoCsharp.pdb
