@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_11.DesafioExceptions.DesafioExceptionsMain</StartupObject>
+    <StartupObject>CursoCsharp.section_13.StreamWriterExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -76,6 +76,11 @@
     <Compile Include="section_11\ExercicioExceptions\Exceptions\DomainException.cs" />
     <Compile Include="section_11\FinallyMain.cs" />
     <Compile Include="section_11\TryCatchMain.cs" />
+    <Compile Include="section_13\BlocoUsing.cs" />
+    <Compile Include="section_13\DirectoryExample.cs" />
+    <Compile Include="section_13\FileInfo.cs" />
+    <Compile Include="section_13\StreamReader.cs" />
+    <Compile Include="section_13\StreamWriterExample.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />
