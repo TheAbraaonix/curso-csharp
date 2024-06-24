@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_14.ExercicioInterface.ExercicioInterfaceMain</StartupObject>
+    <StartupObject>CursoCsharp.section_14.DesafioInjecaoDependencia.DesafioInjecaoDependenciaMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -81,6 +81,12 @@
     <Compile Include="section_13\FileInfo.cs" />
     <Compile Include="section_13\StreamReader.cs" />
     <Compile Include="section_13\StreamWriterExample.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\DesafioInjecaoDependenciaMain.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\Entities\Contract.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\Entities\Installment.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\Services\ContractService.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\Services\IOnlinePaymentService.cs" />
+    <Compile Include="section_14\DesafioInjecaoDependencia\Services\PayPalService.cs" />
     <Compile Include="section_14\ExercicioInterface\Entities\CarRental.cs" />
     <Compile Include="section_14\ExercicioInterface\Entities\Invoice.cs" />
     <Compile Include="section_14\ExercicioInterface\Entities\Vehicle.cs" />
