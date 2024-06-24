@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_13\\directoryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_13\\directoryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_13\\streamwriterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_13\\streamwriterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\exerciciointerfacemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\exerciciointerfacemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos.holanda\\documents\\projects\\curso_csharp_completo\\curso-csharp\\cursocsharp\\section_14\\exerciciointerface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_14\\exerciciointerface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DirectoryExample.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_13\\DirectoryExample.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_13\\DirectoryExample.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_13\\DirectoryExample.cs",
-              "RelativeToolTip": "CursoCsharp\\section_13\\DirectoryExample.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBMAAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T17:06:28.774Z",
+              "WhenOpened": "2024-06-24T18:29:47.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StreamWriterExample.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_13\\StreamWriterExample.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_13\\StreamWriterExample.cs",
-              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_13\\StreamWriterExample.cs",
-              "RelativeToolTip": "CursoCsharp\\section_13\\StreamWriterExample.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\RentalService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:55:57.129Z",
+              "WhenOpened": "2024-06-24T17:55:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:53:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExercicioInterfaceMain.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\ExercicioInterfaceMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\ExercicioInterfaceMain.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\ExercicioInterfaceMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\ExercicioInterfaceMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:47:57.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:45:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:42:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "CursoCsharp\\section_14\\ExercicioInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:40:53.826Z",
               "EditorCaption": ""
             }
           ]
