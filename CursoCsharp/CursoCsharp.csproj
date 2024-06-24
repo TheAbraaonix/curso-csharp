@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_10.DesafioMetodosAbstratos.DesafioMetodosAbstratosMain</StartupObject>
+    <StartupObject>CursoCsharp.section_11.DesafioExceptions.DesafioExceptionsMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -68,6 +68,14 @@
     <Compile Include="section_10\heranca\BusinessAccount.cs" />
     <Compile Include="section_10\heranca\HerancaMain.cs" />
     <Compile Include="section_10\heranca\SavingsAccount.cs" />
+    <Compile Include="section_11\DesafioExceptions\DesafioExceptionsMain.cs" />
+    <Compile Include="section_11\DesafioExceptions\Entities\AccountDesafioExceptions.cs" />
+    <Compile Include="section_11\DesafioExceptions\Exceptions\WithdrawException.cs" />
+    <Compile Include="section_11\ExercicioExceptions\Entities\ExercicioExceptionMain.cs" />
+    <Compile Include="section_11\ExercicioExceptions\Entities\Reservation.cs" />
+    <Compile Include="section_11\ExercicioExceptions\Exceptions\DomainException.cs" />
+    <Compile Include="section_11\FinallyMain.cs" />
+    <Compile Include="section_11\TryCatchMain.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />

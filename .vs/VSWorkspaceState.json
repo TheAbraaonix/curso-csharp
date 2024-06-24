@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CursoCsharp",
     "\\CursoCsharp\\section_10",
+    "\\CursoCsharp\\section_10\\DesafioMetodosAbstratos",
     "\\CursoCsharp\\section_10\\heranca"
   ],
-  "SelectedNode": "\\CursoCsharp.sln",
+  "SelectedNode": "\\CursoCsharp\\section_10\\DesafioMetodosAbstratos\\DesafioMetodosAbstratosMain.cs",
   "PreviewInSolutionExplorer": false
 }
