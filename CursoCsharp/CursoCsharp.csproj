@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_16.TopicosEspeciaisParteDoisMain</StartupObject>
+    <StartupObject>CursoCsharp.section_17.Func.FuncMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -105,6 +105,12 @@
     <Compile Include="section_16\Extensions\DateTimeExtensions.cs" />
     <Compile Include="section_16\Extensions\StringExtensions.cs" />
     <Compile Include="section_16\TopicosEspeciaisParteDoisMain.cs" />
+    <Compile Include="section_17\Delegates\Action\ActionMain.cs" />
+    <Compile Include="section_17\Delegates\DelegatesMain.cs" />
+    <Compile Include="section_17\Delegates\Services\CalculationService.cs" />
+    <Compile Include="section_17\Delegates\Func\FuncMain.cs" />
+    <Compile Include="section_17\Delegates\Entities\ProductPredicate.cs" />
+    <Compile Include="section_17\Delegates\Predicate\PredicateMain.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />
