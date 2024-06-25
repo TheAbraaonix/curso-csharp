@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlos.holanda\\Documents\\projects\\curso_csharp_completo\\curso-csharp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_15\\dictionaryandsorteddictionary\\dictionarymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_15\\dictionaryandsorteddictionary\\dictionarymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DictionaryMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:31:26.888Z",
+              "EditorCaption": ""
             }
           ]
         }
