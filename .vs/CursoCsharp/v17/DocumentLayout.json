@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_16\\topicosespeciaispartedoismain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_16\\topicosespeciaispartedoismain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_16\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_16\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_16\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_16\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_15\\dictionaryandsorteddictionary\\dictionarymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_15\\dictionaryandsorteddictionary\\dictionarymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_16\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "CursoCsharp\\section_16\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:57:09.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_16\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "CursoCsharp\\section_16\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:47:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TopicosEspeciaisParteDoisMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\TopicosEspeciaisParteDoisMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_16\\TopicosEspeciaisParteDoisMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_16\\TopicosEspeciaisParteDoisMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_16\\TopicosEspeciaisParteDoisMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:47:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DictionaryMain.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",
               "RelativeDocumentMoniker": "CursoCsharp\\section_15\\DictionaryAndSortedDictionary\\DictionaryMain.cs",

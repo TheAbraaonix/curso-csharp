@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_15.DictionaryAndSortedDictionary.DictionaryMain</StartupObject>
+    <StartupObject>CursoCsharp.section_16.TopicosEspeciaisParteDoisMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -102,6 +102,9 @@
     <Compile Include="section_15\Generics\PrintService.cs" />
     <Compile Include="section_15\HashSetAndSortedSet\HashSetMain.cs" />
     <Compile Include="section_15\HashSetAndSortedSet\SortedSetMain.cs" />
+    <Compile Include="section_16\Extensions\DateTimeExtensions.cs" />
+    <Compile Include="section_16\Extensions\StringExtensions.cs" />
+    <Compile Include="section_16\TopicosEspeciaisParteDoisMain.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />
