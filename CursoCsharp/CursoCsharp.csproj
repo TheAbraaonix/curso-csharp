@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_14.DesafioInjecaoDependencia.DesafioInjecaoDependenciaMain</StartupObject>
+    <StartupObject>CursoCsharp.section_15.DesafioHashSetAndSortedSet.MainDesafioHashSetAndSortedSet</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -94,6 +94,13 @@
     <Compile Include="section_14\ExercicioInterface\Services\BrazilTaxService.cs" />
     <Compile Include="section_14\ExercicioInterface\Services\ITaxService.cs" />
     <Compile Include="section_14\ExercicioInterface\Services\RentalService.cs" />
+    <Compile Include="section_15\DesafioHashSetAndSortedSet\MainDesafioHashSetAndSortedSet.cs" />
+    <Compile Include="section_15\EqualsAndHashCode\Entities\Client.cs" />
+    <Compile Include="section_15\EqualsAndHashCode\EqualsAndHashCodeMain.cs" />
+    <Compile Include="section_15\Generics\GenericsMain.cs" />
+    <Compile Include="section_15\Generics\PrintService.cs" />
+    <Compile Include="section_15\HashSetAndSortedSet\HashSetMain.cs" />
+    <Compile Include="section_15\HashSetAndSortedSet\SortedSetMain.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />
