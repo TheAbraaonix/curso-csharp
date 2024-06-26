@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CursoCsharp.section_17.Func.FuncMain</StartupObject>
+    <StartupObject>CursoCsharp.section_17.LINQ.LINQeLambda.LINQeLambdaMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -111,6 +111,11 @@
     <Compile Include="section_17\Delegates\Func\FuncMain.cs" />
     <Compile Include="section_17\Delegates\Entities\ProductPredicate.cs" />
     <Compile Include="section_17\Delegates\Predicate\PredicateMain.cs" />
+    <Compile Include="section_17\LINQ\IntroducaoLINQMain.cs" />
+    <Compile Include="section_17\LINQ\LINQeLambda\Entities\Category.cs" />
+    <Compile Include="section_17\LINQ\LINQeLambda\Entities\Product.cs" />
+    <Compile Include="section_17\LINQ\LINQeLambda\LINQeLambdaMain.cs" />
+    <Compile Include="section_17\LINQ\LINQeLambda\NotacaoLinqSqlMain.cs" />
     <Compile Include="section_4\Calculadora.cs" />
     <Compile Include="section_4\MainEstatica.cs" />
     <Compile Include="section_4\MainProduto.cs" />

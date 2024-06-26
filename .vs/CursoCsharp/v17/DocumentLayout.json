@@ -3,16 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\delegates\\func\\funcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\delegates\\func\\funcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CursoCsharp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\delegates\\predicate\\predicatemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\delegates\\predicate\\predicatemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\linq\\linqelambda\\notacaolinqsqlmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\linq\\linqelambda\\notacaolinqsqlmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\delegates\\action\\actionmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\delegates\\action\\actionmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\linq\\linqelambda\\linqelambdamain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\linq\\linqelambda\\linqelambdamain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\linq\\introducaolinqmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\linq\\introducaolinqmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\linq\\linqelambda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\linq\\linqelambda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\section_17\\linq\\linqelambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\section_17\\linq\\linqelambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F10EBC-E474-451D-BC95-C52F04DB8335}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\carlos abra\u00E3o\\documents\\projects\\curso_csharp\\curso-csharp\\cursocsharp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +36,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FuncMain.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Func\\FuncMain.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\Delegates\\Func\\FuncMain.cs",
-              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Func\\FuncMain.cs",
-              "RelativeToolTip": "CursoCsharp\\section_17\\Delegates\\Func\\FuncMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T22:13:48.367Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -47,28 +48,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PredicateMain.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Predicate\\PredicateMain.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\Delegates\\Predicate\\PredicateMain.cs",
-              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Predicate\\PredicateMain.cs",
-              "RelativeToolTip": "CursoCsharp\\section_17\\Delegates\\Predicate\\PredicateMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "CursoCsharp",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\CursoCsharp.csproj",
+              "RelativeDocumentMoniker": "CursoCsharp\\CursoCsharp.csproj",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\CursoCsharp.csproj",
+              "RelativeToolTip": "CursoCsharp\\CursoCsharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T22:08:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroducaoLINQMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\IntroducaoLINQMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\LINQ\\IntroducaoLINQMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\IntroducaoLINQMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_17\\LINQ\\IntroducaoLINQMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T22:07:57.96Z",
+              "WhenOpened": "2024-06-26T21:55:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotacaoLinqSqlMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\NotacaoLinqSqlMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\NotacaoLinqSqlMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\NotacaoLinqSqlMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\NotacaoLinqSqlMain.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:54:49.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ActionMain.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Action\\ActionMain.cs",
-              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\Delegates\\Action\\ActionMain.cs",
-              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\Delegates\\Action\\ActionMain.cs",
-              "RelativeToolTip": "CursoCsharp\\section_17\\Delegates\\Action\\ActionMain.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Title": "LINQeLambdaMain.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\LINQeLambdaMain.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\LINQeLambdaMain.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\LINQeLambdaMain.cs",
+              "RelativeToolTip": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\LINQeLambdaMain.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowD8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T22:06:15.841Z",
+              "WhenOpened": "2024-06-26T21:04:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Category.cs",
+              "RelativeToolTip": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:03:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Carlos Abra\u00E3o\\Documents\\projects\\curso_csharp\\curso-csharp\\CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Product.cs",
+              "RelativeToolTip": "CursoCsharp\\section_17\\LINQ\\LINQeLambda\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:02:57.747Z",
               "EditorCaption": ""
             }
           ]
